@@ -1,0 +1,31 @@
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Logica.dll
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Logica.pdb
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Persistencia.dll
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.dll
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Logica.dll
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Logica.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Persistencia.dll
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.dll
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.dll
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\obj\Debug\Logica.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Logica.dll
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Logica.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Persistencia.dll
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Logica\bin\Debug\Persistencia.pdb
