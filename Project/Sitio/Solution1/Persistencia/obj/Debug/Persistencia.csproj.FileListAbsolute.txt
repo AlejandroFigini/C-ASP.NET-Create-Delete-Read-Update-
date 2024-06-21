@@ -1,0 +1,25 @@
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\figin\Desktop\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\figin\OneDrive\Escritorio\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\figin\OneDrive\Escritorio\Bios\Bios Primer Año\Proyecto Final\Sitio\Solution1\Persistencia\bin\Debug\EntidadesCompartidas.pdb
